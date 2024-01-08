@@ -1,4 +1,4 @@
-# Desafio Codelândia - 07
+# TodoList
 ![image](/preview/todo.gif)
 
 ## Sobre
