@@ -10,4 +10,4 @@ O ToDoList que criei é uma solução simples, mas incrivelmente útil, para ger
 **Autor: [Deivid Micael](https://www.linkedin.com/in/deivid-micael-santos-silva/)**
 
 ## Live site
-**🔗️ https://todo-list.vercel.app/**
+**🔗️ https://todo-list-git-master-codedeivid.vercel.app/**
